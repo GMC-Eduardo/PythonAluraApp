@@ -41,7 +41,7 @@ Nesta funcionalidade, os restaurantes podem se cadastrar na plataforma para ofer
 
 ### Autores:
 
-- [Seu nome aqui] - Desenvolvedor principal
+- Eduardo Gabriel - Desenvolvedor principal
 
 ### Licença:
 
