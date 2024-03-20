@@ -1,4 +1,6 @@
-print("Sabor Express\n")
+print("""Sabor Express
+
+""")
 
 print("1. Cadastra restaurante")
 print("2. Listar restaurante")
